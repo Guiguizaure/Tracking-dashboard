@@ -1,0 +1,129 @@
+[
+  {
+    "title": "Work",
+    "icone": "images/icon-work.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 5,
+        "previous": 7
+      },
+      "weekly": {
+        
+        "date": "Week",
+        "current": 32,
+        "previous": 36
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 103,
+        "previous": 128
+      }
+    }
+  },
+  {
+    "title": "Play",
+    "icone": "images/icon-play.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 1,
+        "previous": 2
+      },
+      "weekly": {
+        "date": "Week",
+        "current": 10,
+        "previous": 8
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 23,
+        "previous": 29
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "icone": "images/icon-study.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 0,
+        "previous": 1
+      },
+      "weekly": {
+        "date": "Week",
+        "current": 4,
+        "previous": 7
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 13,
+        "previous": 19
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "icone": "images/icon-exercise.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 1,
+        "previous": 1
+      },
+      "weekly": {
+        "date": "Week",
+        "current": 4,
+        "previous": 5
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 11,
+        "previous": 18
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "icone": "images/icon-social.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 1,
+        "previous": 3
+      },
+      "weekly": {
+        "date": "Week",
+        "current": 5,
+        "previous": 10
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 21,
+        "previous": 23
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "icone": "images/icon-self-care.svg",
+    "timeframes": {
+      "daily": {
+        "date": "Day",
+        "current": 0,
+        "previous": 1
+      },
+      "weekly": {
+        "date": "Week",
+        "current": 2,
+        "previous": 2
+      },
+      "monthly": {
+        "date": "Month",
+        "current": 7,
+        "previous": 11
+      }
+    }
+  }
+]

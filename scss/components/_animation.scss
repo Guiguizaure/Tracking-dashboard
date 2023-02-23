@@ -1,0 +1,33 @@
+@keyframes fade-in {
+    0%{
+        opacity: 0;
+        transform: scale(0.9) rotateZ(-2deg);
+        // transform: rotateZ(-3deg);
+    }
+    100%{
+        opacity: 100%;
+    }
+}
+
+.time-card-container .time-card{
+    animation: fade-in 700ms forwards;
+    animation-fill-mode: both;
+}
+.time-card-container .time-card:nth-child(1){
+    animation-delay: 100ms;
+}
+.time-card-container .time-card:nth-child(2){
+    animation-delay: 200ms;
+}
+.time-card-container .time-card:nth-child(3){
+    animation-delay: 300ms;
+}
+.time-card-container .time-card:nth-child(4){
+    animation-delay: 400ms;
+}
+.time-card-container .time-card:nth-child(5){
+    animation-delay: 500ms;
+}
+.time-card-container .time-card:nth-child(6){
+    animation-delay: 600ms;
+}
